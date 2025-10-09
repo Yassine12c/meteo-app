@@ -1,96 +1,58 @@
-🌦️ Meteo App
+# 🌦️ Meteo App
 
+[![Vercel Deploy](https://img.shields.io/badge/Deploy-Vercel-blue)](https://vercel.com/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+[![OpenWeather API](https://img.shields.io/badge/OpenWeather-API-orange)](https://openweathermap.org/api)
 
+---
 
+## 🚀 Live Demo
 
+Try the app here: [https://meteo-app-chi.vercel.app](https://meteo-app-chi.vercel.app)  
 
+---
 
-🚀 Live Demo
+## 🛠️ Technologies Used
 
-Try the app here: https://meteo-app-chi.vercel.app
+- **Frontend**: HTML5, CSS3, JavaScript (ES6)  
+- **API**: [OpenWeather API](https://openweathermap.org/api)  
+- **Deployment**: [Vercel](https://vercel.com)  
+- **Design**: Dynamic backgrounds, weather cards with shadows and hover effects  
 
-🛠️ Technologies Used
+---
 
-Frontend: HTML5, CSS3, JavaScript (ES6)
+## 🎯 Features
 
-API: OpenWeather API
+1. Search for a city by **name**  
+2. Display:  
+   - 🌡️ Current temperature  
+   - 💧 Humidity  
+   - 🌤️ Weather description  
+   - 🌇 City name + country  
+   - 🌅 Sunrise & sunset  
+   - 🌬️ Wind speed  
+3. Dynamic background depending on the weather (sunny, cloudy, rainy…)  
+4. Responsive and modern interface  
 
-Deployment: Vercel
+---
 
-Design: Dynamic backgrounds, weather cards with shadows and hover effects
+## 💡 Screenshots / Demo
 
-🎯 Features
+| Search Interface | Weather Result |
+|-----------------|----------------|
+| ![Search](./screenshots/search.png) | ![Result](./screenshots/result.png) |
 
-Search for a city by name
+Quick demo GIF:  
+![Demo GIF](./screenshots/demo.gif)  
 
-Display:
+> Add your screenshots or GIF in the `/screenshots/` folder for better visual documentation.
 
-🌡️ Current temperature
+---
 
-💧 Humidity
+## 📦 Installation and Usage
 
-🌤️ Weather description
+### Option 1: Local
 
-🌇 City name + country
-
-🌅 Sunrise & sunset
-
-🌬️ Wind speed
-
-Dynamic background depending on the weather (sunny, cloudy, rainy…)
-
-Responsive and modern interface
-
-💡 Screenshots / Demo
-Search Interface	Weather Result
-
-	
-
-Quick demo GIF:
-
-
-Add your screenshots or GIF in the /screenshots/ folder for better visual documentation.
-
-📦 Installation and Usage
-Option 1: Local
-
-Clone the repository:
-
+1. Clone the repository:
+```bash
 git clone https://github.com/Yassine12c/meteo-app.git
-
-
-Open index.html in your browser.
-
-Option 2: Online
-
-Open the live demo: https://meteo-app-chi.vercel.app
-
-🔑 API Configuration
-
-Add your OpenWeather API key in script.js:
-
-const apiKey = "YOUR_OPENWEATHER_KEY";
-
-
-For production, use Vercel Environment Variables to keep your key secure.
-
-🌟 Future Improvements
-
-Add search by “Enter” key
-
-Add 5-day forecast
-
-Add more dynamic backgrounds based on weather
-
-Add search history
-
-📝 Author
-
-Yassine Cherkaoui – Computer & Network Engineering Student
-GitHub
- | LinkedIn
-
-📄 License
-
-This project is licensed under the MIT License. See LICENSE
- for details.
