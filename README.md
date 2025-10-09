@@ -1,6 +1,5 @@
 # 🌦️ Meteo App
 
-# 🌦️ Meteo App
 
 A simple and interactive web application that lets you **check the current weather** in any city using the **OpenWeather API**.  
 Stay informed about temperature, humidity, wind, sunrise/sunset, and enjoy dynamic backgrounds that change with the weather!
