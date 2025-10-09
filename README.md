@@ -1,5 +1,10 @@
 # 🌦️ Meteo App
 
+# 🌦️ Meteo App
+
+A simple and interactive web application that lets you **check the current weather** in any city using the **OpenWeather API**.  
+Stay informed about temperature, humidity, wind, sunrise/sunset, and enjoy dynamic backgrounds that change with the weather!
+
 [![Vercel Deploy](https://img.shields.io/badge/Deploy-Vercel-blue)](https://vercel.com/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 [![OpenWeather API](https://img.shields.io/badge/OpenWeather-API-orange)](https://openweathermap.org/api)
