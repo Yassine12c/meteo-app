@@ -75,3 +75,6 @@ function showWeather(data) {
     document.body.style.background = "linear-gradient(to top, #74ebd5, #ACB6E5)";
   }
 }
+
+
+// Modification pour le badge Pull Shark
