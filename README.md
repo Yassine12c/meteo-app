@@ -60,3 +60,5 @@ Quick demo GIF:
 1. Clone the repository:
 ```bash
 git clone https://github.com/Yassine12c/meteo-app.git
+
+
